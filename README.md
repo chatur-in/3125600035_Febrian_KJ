@@ -1,4 +1,4 @@
-# 📘 Tugas & Kunci Jawaban Jaringan Komputer
+# 📘 Tugas Mata Kuliah Konsep Jaringan
 
 | Information | Detail |
 | :--- | :--- |
