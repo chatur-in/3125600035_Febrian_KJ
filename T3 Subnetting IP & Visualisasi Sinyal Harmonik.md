@@ -134,7 +134,7 @@ print("Tersimpan: sinyal_harmonik.png")
 
 ### Hasil Visualisasi
 
-![Visualisasi sinyal harmonik](.assets/sinyal_harmonik.png)
+![Visualisasi sinyal harmonik](./assets/sinyal_harmonik.png)
 
 | Panel | Isi |
 |-------|-----|
